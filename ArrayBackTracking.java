@@ -1,4 +1,4 @@
-class ArrayBackTracking {
+public class ArrayBackTracking {
 
     /**
      * Changes array values using recursion and backtracking.
